@@ -4,4 +4,7 @@ Este repositorio público compila código y libretas jupiter en R y python para 
 
 Su objetivo es autodidáctico.
 
-La mayor parte del código está escrito en ingles.
+La mayor parte del código está escrito en ingles, aunque los comentarios estén en español (no siempre es el caso.)
+
+todo:
+    - paquete para análisis de datos
